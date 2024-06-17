@@ -1,6 +1,6 @@
-<h1>Next.js🌟Transition animations on page enter and exit</h1>
-Enter: Gradient background from left to right<br>
-Exit: Gradient background from right to ledt
+<h1>Next.js🌟AnimatedLine fllowing scroll</h1>
+<p>animate 1 : Drowing line vertical following scroll</p>
+<p>animate 2 : Drowing cercle following scroll</p>
 
 <h2>External Libraries used in this project:</h2>
 
@@ -9,4 +9,4 @@ Exit: Gradient background from right to ledt
   <li>Tailwind css</li>
 </ul>
 
-<img width="1375" alt="スクリーンショット 2024-06-10 17 37 07" src="https://github.com/Arilifecom/transitionSlide/assets/97996784/27302e27-3ee8-43c9-b052-edede37ed4d3">
+<img width="1379" alt="AnimatedLine" src="https://github.com/Arilifecom/AnimatedLine/assets/97996784/66bb7dab-e7fa-411b-a1c5-6f11ef7c5d97">
